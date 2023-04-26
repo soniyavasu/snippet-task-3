@@ -1,0 +1,159 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1250px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+	font-family: 'Poppins', sans-serif;
+}
+.flex-container{
+	display:flex;
+	/* flex-wrap:wrap; */
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.head-img{
+	position:relative;
+	left:207px;
+}
+body{
+	background-color:#ccc;
+}
+.header{
+	margin-top:30px;
+}
+img{
+	width:300px;
+	height:600px;
+	position:relative;
+}
+.head-img i{
+	position:absolute;
+	color:white;
+	left:40px;
+	top:40px;
+	font-size:45px;
+}
+.content{
+	background-color:white;
+	height:600px;
+	width:500px;
+	position:absolute;
+	padding:40px;
+	
+}
+.para1{
+	font-size:40px;
+	color:gray;
+	font-weight:500;
+	margin-bottom:20px;
+}
+.para2{
+	font-size:25px;
+	margin-bottom:20px;
+}
+.content i{
+	color:gray;
+	font-size:40px;
+	padding:25px;
+}
+.content div{
+	border:1px solid gray;
+	width:300px;
+	margin-left:80px;
+}
+button{
+	padding:8px 30px;
+	border-radius:25px;
+	border:1px solid #a270b8;
+	background-color:#a270b8;
+	color:white;
+	margin-top:20px;
+	margin-left:280px;
+	margin-bottom:55px;
+	
+	
+}
+a{
+	color:black;
+	margin-left:300px;
+}
