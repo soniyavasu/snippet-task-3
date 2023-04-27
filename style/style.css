@@ -133,7 +133,7 @@ img{
 }
 .content i{
 	color:gray;
-	font-size:40px;
+	font-size:30px;
 	padding:25px;
 }
 .content div{
@@ -142,13 +142,13 @@ img{
 	margin-left:80px;
 }
 button{
-	padding:8px 30px;
+	padding:20px 40px;
 	border-radius:25px;
 	border:1px solid #a270b8;
 	background-color:#a270b8;
 	color:white;
 	margin-top:20px;
-	margin-left:280px;
+	margin-left:260px;
 	margin-bottom:55px;
 	
 	
@@ -156,4 +156,9 @@ button{
 a{
 	color:black;
 	margin-left:300px;
+}
+input{
+	font-size:20px;
+	border:none;
+	outline:none;
 }
